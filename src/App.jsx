@@ -9,7 +9,7 @@ function App() {
   return (
     
     <>
-    <h1 className='bg-red-600'>yaddhhghhhhhhhhhhhhhhhdhya</h1>
+    <h1 className='bg-red-600'>yaddhhghhhhhhhjahvusdvuisdgvuisdgiudsgvsdiugdsuivgsduhhhhhhhhdhya</h1>
     </>
      
   )
